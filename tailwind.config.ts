@@ -40,6 +40,9 @@ const config: Config = {
       screens: {
         xs: "420px",
       },
+      fontFamily: {
+        inter: ["Inter", "sans-serif"],
+      },
     },
   },
   plugins: [],
